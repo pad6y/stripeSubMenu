@@ -1,1 +1,1 @@
-//13 strip submenus
+//replicating strip submenus project
